@@ -1,0 +1,5 @@
+# Alpaca
+alpaca_trade_api==1.2.3
+
+# Util/env
+python-dotenv==0.18.0
