@@ -6,6 +6,18 @@ Experimenting with simple stock market analysis, using services:
 * [zenvest.ai/api](https://www.zenvest.ai/api)
 * [alphavantage.co/documentation](https://www.alphavantage.co/documentation)
 
+Contains examples on various functions like getting:
+
+* Algorithmic data on a particular stock
+* List of tickers on different exchanges
+* Current market sentiment
+* Sentiment analysis on a particular stock
+* etc...
+
+## Development
+
+In the root folder of the project, create a ``.env`` file and add the relevant values for the services you want to use.
+
 ## Disclaimer
 
 This software is for educational purposes only and does _not_ in any way provide financial advice. Use at your own risk.
