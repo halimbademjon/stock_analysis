@@ -1,11 +1,12 @@
 # Various stock analysis/data retrieval code snippets
 
-Experimenting with simple stock market analysis and data retrieval using Python. Contains examples on various functions like getting:
+Experimenting with simple stock market analysis and data retrieval using Python. Contains examples on various functions like:
 
 * Algorithmic data on a particular stock
 * List of tickers on different exchanges
 * Current market sentiment
 * Sentiment analysis on a particular stock
+* Issuing a buy order
 * etc...
 
 Of all the service available "out there", I found these to be the easiest to use. Minimum need for installing dependencies/requirements, or writing code to scrape websites etc...
