@@ -15,6 +15,8 @@ Of all the service available "out there", I found these to be the easiest to use
 * [zenvest.ai/api](https://www.zenvest.ai/api)
 * [alphavantage.co/documentation](https://www.alphavantage.co/documentation)
 
+Heads up! zenvest.ai is in beta as of writing this (Sept. 9th), so use at own risk! 
+
 ## Development
 
 In the root folder of the project, create a ``.env`` file and add the relevant values for the services you want to use.
