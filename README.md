@@ -1,18 +1,18 @@
-# Various stock market analysis/data retrieval code snippets
+# Various stock analysis/data retrieval code snippets
 
-Experimenting with simple stock market analysis, using services:
-
-* [alpaca.markets/docs/api-documentation](https://alpaca.markets/docs/api-documentation)
-* [zenvest.ai/api](https://www.zenvest.ai/api)
-* [alphavantage.co/documentation](https://www.alphavantage.co/documentation)
-
-Contains examples on various functions like getting:
+Experimenting with simple stock market analysis and data retrieval using Python. Contains examples on various functions like getting:
 
 * Algorithmic data on a particular stock
 * List of tickers on different exchanges
 * Current market sentiment
 * Sentiment analysis on a particular stock
 * etc...
+
+Of all the service available "out there", I found these to be the easiest to use. Minimum need for installing dependencies/requirements, or writing code to scrape websites etc...
+
+* [alpaca.markets/docs/api-documentation](https://alpaca.markets/docs/api-documentation)
+* [zenvest.ai/api](https://www.zenvest.ai/api)
+* [alphavantage.co/documentation](https://www.alphavantage.co/documentation)
 
 ## Development
 
