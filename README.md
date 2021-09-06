@@ -1,8 +1,6 @@
 # Various stock market analysis
 
-Experimenting with simple stock market analysis
-
-Using services like:
+Experimenting with simple stock market analysis, using services:
 
 * [alpaca.markets/docs/api-documentation](https://alpaca.markets/docs/api-documentation)
 * [zenvest.ai/api](https://www.zenvest.ai/api)
