@@ -1,4 +1,4 @@
-# Various stock market analysis
+# Various stock market analysis/data retrieval code snippets
 
 Experimenting with simple stock market analysis, using services:
 
